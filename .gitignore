@@ -1,0 +1,9 @@
+# Dataset asli
+data/raw/*.csv
+
+# Video presentasi
+video/*.mkv
+
+# File sementara
+__pycache__/
+.ipynb_checkpoints/
