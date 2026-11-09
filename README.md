@@ -1,4 +1,3 @@
-
 # Kimia Farma Business Performance Analytics 2020–2023
 
 ## 1. Gambaran Proyek
@@ -170,9 +169,11 @@ Dashboard ini menyajikan beberapa informasi utama, yaitu:
 
 [datastudio.google.com/reporting/883e78f0-fa80-4561-8dd0-0e64a40155d8](https://datastudio.google.com/reporting/883e78f0-fa80-4561-8dd0-0e64a40155d8)
 
-### Pratinjau Dashboard
 
-![Dashboard_Kimia_Farma](dashboard/Dashboard_Kimia_Farma.png)
+## Pratinjau Dashboard
+
+![Dashboard Kimia Farma](dashboard/Dashboard_Kimia_Farma.jpg)
+
 
 ## 9. Struktur Repository
 
@@ -212,7 +213,6 @@ Dokumentasi proyek dapat diakses melalui beberapa bagian berikut:
 - **Dashboard:** [datastudio.google.com/reporting/883e78f0-fa80-4561-8dd0-0e64a40155d8](https://datastudio.google.com/reporting/883e78f0-fa80-4561-8dd0-0e64a40155d8)
 - **Presentasi Proyek:** Tersedia pada folder `presentation/` di repository GitHub.
 - **Query SQL:** Tersedia pada folder `sql/` di repository GitHub.
-- **Video Penjelasan Proyek:** [Tonton Video di Sini](MASUKKAN_LINK_VIDEO_YOUTUBE)
 
 ## 11. Kesimpulan
 
